@@ -117,3 +117,13 @@ display: grid;
 grid-template-columns: none;
 } 
 } 
+
+#mg:hover{
+    transform: scale(1.05);
+    transition: all 400ms ease-in-out;
+    cursor: pointer;
+    }
+
+#resume{
+    font-size: xx-large;
+}
