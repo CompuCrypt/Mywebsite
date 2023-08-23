@@ -127,3 +127,8 @@ grid-template-columns: none;
 #resume{
     font-size: xx-large;
 }
+
+.about-content{
+    color: #950101;
+    font-weight: bold;
+}
